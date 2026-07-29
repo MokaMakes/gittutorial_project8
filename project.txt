@@ -1,5 +1,6 @@
 GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
-Here's a small change made. 
-.made change small a s'Here
+Here's a small change made; this change was in regards to 
+the prevoius homework project --- project no. 8.
+Here's a small change made; and this one is to practice code review.
